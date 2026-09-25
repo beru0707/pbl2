@@ -1,0 +1,33 @@
+﻿   Qt/MSBuild: 3.5.0.0
+  Reading Qt configuration (C:/a/qt/6.11.2/msvc2022_64/bin/qmake)
+   Qt: 6.11.2
+  BookingPage.cpp
+  DriverDialog.cpp
+  DriverPage.cpp
+  LoginWidget.cpp
+  main.cpp
+  MainWindow.cpp
+  StatsPage.cpp
+  TaxiPage.cpp
+C:\Users\LENOVO\source\repos\pbl2\Pbl2\Pbl2\LoginWidget.h(2,10): error C1083: Cannot open include file: 'QWidget': No such file or directory
+  (compiling source file 'LoginWidget.cpp')
+  
+C:\Users\LENOVO\source\repos\pbl2\Pbl2\Pbl2\BookingPage.h(2,10): error C1083: Cannot open include file: 'QWidget': No such file or directory
+  (compiling source file 'BookingPage.cpp')
+  
+C:\Users\LENOVO\source\repos\pbl2\Pbl2\Pbl2\MainWindow.h(2,10): error C1083: Cannot open include file: 'QWidget': No such file or directory
+  (compiling source file 'MainWindow.cpp')
+  
+C:\Users\LENOVO\source\repos\pbl2\Pbl2\Pbl2\main.cpp(1,10): error C1083: Cannot open include file: 'QApplication': No such file or directory
+C:\Users\LENOVO\source\repos\pbl2\Pbl2\Pbl2\StatsPage.h(2,10): error C1083: Cannot open include file: 'QWidget': No such file or directory
+  (compiling source file 'StatsPage.cpp')
+  
+C:\Users\LENOVO\source\repos\pbl2\Pbl2\Pbl2\TaxiPage.h(2,10): error C1083: Cannot open include file: 'QWidget': No such file or directory
+  (compiling source file 'TaxiPage.cpp')
+  
+C:\Users\LENOVO\source\repos\pbl2\Pbl2\Pbl2\DriverDialog.h(2,10): error C1083: Cannot open include file: 'QDialog': No such file or directory
+  (compiling source file 'DriverDialog.cpp')
+  
+C:\Users\LENOVO\source\repos\pbl2\Pbl2\Pbl2\DriverPage.h(2,10): error C1083: Cannot open include file: 'QWidget': No such file or directory
+  (compiling source file 'DriverPage.cpp')
+  

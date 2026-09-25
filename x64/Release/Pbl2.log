@@ -1,0 +1,13 @@
+﻿   Qt/MSBuild: 3.5.0.0
+  Reading Qt configuration (C:/a/qt/6.11.2/msvc2022_64/bin/qmake)
+   Qt: 6.11.2
+  moc LoginWidget.h
+  LoginWidget.cpp
+  main.cpp
+  moc_LoginWidget.cpp
+  Generating code
+  16 of 1824 functions ( 0.9%) were compiled, the rest were copied from previous compilation.
+    4 functions were new in current compilation
+    52 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Pbl2.vcxproj -> C:\Users\LENOVO\source\repos\pbl2\Pbl2\x64\Release\Pbl2.exe

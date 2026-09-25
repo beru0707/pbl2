@@ -1,0 +1,19 @@
+﻿   Qt/MSBuild: 3.5.0.0
+  Reading Qt configuration (C:/a/qt/6.11.2/msvc2022_64/bin/qmake)
+   Qt: 6.11.2
+  BookingPage.cpp
+  DriverDialog.cpp
+  DriverPage.cpp
+  LoginWidget.cpp
+  MainWindow.cpp
+  StatsPage.cpp
+  TaxiPage.cpp
+  main.cpp
+  moc_BookingPage.cpp
+  moc_DriverDialog.cpp
+  moc_DriverPage.cpp
+  moc_LoginWidget.cpp
+  moc_MainWindow.cpp
+  moc_StatsPage.cpp
+  moc_TaxiPage.cpp
+  Pbl2.vcxproj -> C:\Users\LENOVO\source\repos\pbl2\Pbl2\x64\Debug\Pbl2.exe
